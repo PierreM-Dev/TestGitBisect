@@ -50,3 +50,7 @@ h1 {
   -webkit-background-clip: text;
   display: inline;
 }
+
+h2 {
+  color: blue;
+}
