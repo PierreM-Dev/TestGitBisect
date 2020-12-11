@@ -60,3 +60,7 @@ h3 {
   color: red;
   font-size: 4em;
 }
+
+body {
+  background-color: rgb(29, 36, 102);
+}
